@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "MycelialGrowth",
+	"Description": "Grow Mycelia from Biomass. Use Somersloops to turn the recipe biomass-positive.",
+	"Category": "Modding",
+	"CreatedBy": "Robb",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.8.0-dev"
+		}
+	],
+	"SemVersion": "1.0.0"
+}
